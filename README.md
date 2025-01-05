@@ -4,7 +4,6 @@
 - 🌱 I’m currently working as Cloud Administrator and backend developer!
 - 💞️ I’m looking to collaborate on exciting projects of all kinds
 - 🔭 I'm learning Nest.js
-- 📫 How to reach me ...
 
 # Socials
 
