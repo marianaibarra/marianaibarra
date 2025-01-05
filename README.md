@@ -1,8 +1,18 @@
+# 👾 About Me
+
 - 👋 Hi, I’m @marianaibarra
-- 👀 I’m interested in machine learning, backend, frontend
-- 🌱 I’m currently learning relational databases
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as Cloud Administrator and backend developer!
+- 💞️ I’m looking to collaborate on exciting projects of all kinds
+- 🔭 I'm learning Nest.js
 - 📫 How to reach me ...
+
+# Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianazapataibarra)
+
+# Tech stack
+
+Nodejs | Vuejs | Nuxtjs | Nestjs | Docker | Typescript | Python | Javascript
 
 <!---
 marianaibarra/marianaibarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
