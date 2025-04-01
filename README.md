@@ -1,19 +1,46 @@
-# 👾 About Me
+# 👋 Hi there, I'm Mariana Zapata Ibarra
 
-- 👋 Hi, I’m @marianaibarra
-- 🌱 I’m currently working as Cloud Administrator and backend developer!
-- 💞️ I’m looking to collaborate on exciting projects of all kinds
-- 🔭 I'm learning Nest.js
+🎓 **Software Engineer** with real-world experience in fullstack development. I’m passionate about learning best practices, software architecture, and building systems that are both scalable and maintainable.
 
-# Socials
+💡 I love exploring different areas in tech — from backend architecture to frontend usability, cloud infrastructure, and even AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianazapataibarra)
+---
 
-# Tech stack
+### 🛠 Tech Stack
 
-Nodejs | Vuejs | Nuxtjs | Nestjs | Docker | Typescript | Python | Javascript
+- **Languages:** TypeScript, JavaScript, Python  
+- **Backend:** NestJS, Node.js, Prisma, Firestore, Django  
+- **Frontend:** Vue.js, Nuxt.js, Pinia, Storybook  
+- **DevOps:** Docker, Docker Compose, Google Cloud Platform (Cloud Run, Cloud Functions)  
+- **Testing:** Jest (unit + integration)  
+- **Tools & Practices:** Git, GitHub, Swagger/OpenAPI, Trello, XP, Kanban  
+- **Other:** Plugin-based architecture, SOLID principles, design patterns
 
-<!---
-marianaibarra/marianaibarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Highlight Project: AI Email Assistant
+
+🔬 I'm currently working on a personal project using Django, Machine Learning, and LLMs to build a smart assistant that helps draft, summarize, and organize emails.
+
+It’s a fun experiment that combines productivity with AI — and I’m learning a lot in the process!
+
+---
+
+### 🌍 About Me
+
+📍 Based in Colombia  
+📚 Studying Computer Engineering @ Politécnico Jaime Isaza Cadavid  
+🧠 Starting Software Engineering @ Politécnico Grancolombiano in 2025  
+🗣 Spanish (native), English (B2)
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marianazapataibarra/)  
+- 💻 [GitHub](https://github.com/marianaibarra)  
+- 📬 marian4ibarr4@gmail.com
+
+---
+
+_Thanks for stopping by! I’m always open to collaboration, learning, and new opportunities._ 🌟
